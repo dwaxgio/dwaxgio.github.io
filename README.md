@@ -1,25 +1,21 @@
-# `dwaxgio.github.io` Portfolio
+# dwaxgio.github.io
 
-This is a static GitHub Pages portfolio for Edward Giraldo. The site is fully in English, keeps the visual direction minimal in black and white, and only uses LinkedIn as the direct contact path.
+Personal portfolio site for GitHub Pages.
 
-## Publish as `username.github.io`
+Everything is static, so there is no build step.
 
-1. Create a GitHub repository named `dwaxgio.github.io`.
-2. Upload the contents of this folder to the root of that repository.
-3. Push to the default branch.
-4. Open `https://dwaxgio.github.io/`.
+## Structure
 
-GitHub serves user-site repositories from the root automatically, so no build step is needed.
+- `index.html` contains the page content
+- `styles.css` contains the layout and visual styles
+- `script.js` renders the featured projects and small UI behaviors
+- `favicon.svg` is the site icon
+- `.nojekyll` keeps GitHub Pages from processing the site with Jekyll
 
-## Files
+## Local edits
 
-- `index.html`: page structure and recruiter-facing copy
-- `styles.css`: layout, motion, and visual system
-- `script.js`: featured project rendering, reveal effects, and live GitHub repo count
-- `favicon.svg`: simple monochrome site icon
-- `.nojekyll`: keeps GitHub Pages from applying Jekyll processing
+If you want to change the main content, start with `index.html`.
 
-## Optional content updates
+If you want to change the look and feel, update `styles.css`.
 
-- Replace the LinkedIn URL in `index.html` if you want to point to a different profile.
-- Update the `featuredProjects` array in `script.js` if you want to swap which public repositories are highlighted.
+If you want to swap featured repositories, edit the `featuredProjects` array in `script.js`.
