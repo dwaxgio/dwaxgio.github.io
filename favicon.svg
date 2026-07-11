@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Edward Giraldo Portfolio</title>
+  <rect width="64" height="64" rx="18" fill="#0b0b0b"/>
+  <path d="M17 17h12.5c7.7 0 12.5 4.6 12.5 11.3 0 4.6-2.4 8-6.5 9.7L47 47H35.1l-9-8.1h-1.9V47H17V17Zm7.2 16h4.6c3.9 0 6-1.6 6-4.6s-2.1-4.6-6-4.6h-4.6V33Z" fill="#f4f0ea"/>
+  <path d="M46.5 16.8v30.4H40V16.8h6.5Z" fill="#f4f0ea"/>
+</svg>
