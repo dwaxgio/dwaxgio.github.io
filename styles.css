@@ -232,35 +232,6 @@ p {
   color: var(--ink);
 }
 
-.hero-metrics {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 0.9rem;
-  margin: 2rem 0 0;
-  padding: 0;
-  list-style: none;
-}
-
-.hero-metrics li {
-  padding: 1rem 1rem 1.1rem;
-  border-radius: var(--radius-sm);
-  border: 1px solid var(--line);
-  background: rgba(255, 255, 255, 0.02);
-}
-
-.hero-metrics span {
-  display: block;
-  margin-bottom: 0.4rem;
-  color: #ffffff;
-  font-size: 1.2rem;
-  font-weight: 700;
-}
-
-.hero-metrics small {
-  color: var(--muted-soft);
-  font-size: 0.8rem;
-}
-
 .cv-grid {
   display: grid;
   grid-template-columns: repeat(12, minmax(0, 1fr));
@@ -569,9 +540,6 @@ p {
     grid-template-columns: 1fr;
   }
 
-  .hero-metrics {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
 }
 
 @media (max-width: 760px) {
@@ -603,10 +571,6 @@ p {
   .experience-item {
     grid-template-columns: 1fr;
     gap: 0.9rem;
-  }
-
-  .hero-metrics {
-    grid-template-columns: 1fr;
   }
 
   .terminal-dock {
