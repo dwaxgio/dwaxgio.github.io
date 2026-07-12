@@ -4,7 +4,7 @@ const featuredProjects = [
     track: "Architecture",
     year: "2024",
     description:
-      "A public C# repository focused on clean architecture and domain-driven structure, useful for showing backend organization and engineering fundamentals.",
+      "C# repository focused on clean architecture structure, domain separation, and backend organization.",
     tags: ["C#", "Clean Architecture", "DDD"],
     url: "https://github.com/dwaxgio/CleanArchitectureDDDSolution",
     featured: true
@@ -14,7 +14,7 @@ const featuredProjects = [
     track: "Full Stack",
     year: "2025",
     description:
-      "A full-stack exercise that combines a .NET backend with a React and TypeScript frontend, reflecting cross-layer thinking and implementation discipline.",
+      ".NET backend with a React and TypeScript frontend, covering full-stack integration and CRUD workflow implementation.",
     tags: [".NET", "React", "TypeScript"],
     url: "https://github.com/dwaxgio/crud_mvc_csharp_dotnet_react_ts",
     featured: true
@@ -24,7 +24,7 @@ const featuredProjects = [
     track: "Frontend",
     year: "2024",
     description:
-      "An e-commerce oriented UI project built with Next.js, TypeScript, and Tailwind CSS, showing component-driven thinking and modern frontend patterns.",
+      "Next.js, TypeScript, and Tailwind CSS project oriented to catalog and shopping cart flows.",
     tags: ["Next.js", "TypeScript", "Tailwind"],
     url: "https://github.com/dwaxgio/catalog_shopping_cart_react_next_tailwindcss_ts"
   },
@@ -33,7 +33,7 @@ const featuredProjects = [
     track: "Product UI",
     year: "2024",
     description:
-      "A React and TypeScript interface focused on review workflows and structured UI behavior, useful for demonstrating form-heavy product implementation.",
+      "React and TypeScript interface focused on structured review workflows and form-driven UI behavior.",
     tags: ["React", "TypeScript", "Workflow UI"],
     url: "https://github.com/dwaxgio/react_typescript-email-audit-app"
   },
@@ -42,7 +42,7 @@ const featuredProjects = [
     track: "AI Workflows",
     year: "2025",
     description:
-      "A recent public repository aligned with AI-assisted development fundamentals and developer workflow exploration.",
+      "Repository centered on AI-assisted development fundamentals and engineering workflow exploration.",
     tags: ["AI", "JavaScript", "Developer Experience"],
     url: "https://github.com/dwaxgio/ai-development-fundamentals"
   },
@@ -51,7 +51,7 @@ const featuredProjects = [
     track: "Tooling",
     year: "2025",
     description:
-      "TypeScript-based exploration of hook-oriented tooling patterns in modern AI development environments.",
+      "TypeScript-based repository exploring hook-oriented tooling patterns for AI development environments.",
     tags: ["TypeScript", "Hooks", "Automation"],
     url: "https://github.com/dwaxgio/claude-fundamentals-hooks"
   }
