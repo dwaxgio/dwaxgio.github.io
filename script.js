@@ -20,15 +20,6 @@ const featuredProjects = [
     featured: true
   },
   {
-    name: "catalog_shopping_cart_react_next_tailwindcss_ts",
-    track: "Frontend",
-    year: "2024",
-    description:
-      "Next.js, TypeScript, and Tailwind CSS project oriented to catalog and shopping cart flows.",
-    tags: ["Next.js", "TypeScript", "Tailwind"],
-    url: "https://github.com/dwaxgio/catalog_shopping_cart_react_next_tailwindcss_ts"
-  },
-  {
     name: "react_typescript-email-audit-app",
     track: "Product UI",
     year: "2024",
@@ -36,6 +27,15 @@ const featuredProjects = [
       "React and TypeScript interface focused on structured review workflows and form-driven UI behavior.",
     tags: ["React", "TypeScript", "Workflow UI"],
     url: "https://github.com/dwaxgio/react_typescript-email-audit-app"
+  },
+  {
+    name: "catalog_shopping_cart_react_next_tailwindcss_ts",
+    track: "Frontend",
+    year: "2024",
+    description:
+      "Next.js, TypeScript, and Tailwind CSS project oriented to catalog and shopping cart flows.",
+    tags: ["Next.js", "TypeScript", "Tailwind"],
+    url: "https://github.com/dwaxgio/catalog_shopping_cart_react_next_tailwindcss_ts"
   },
   {
     name: "ai-development-fundamentals",
@@ -47,13 +47,13 @@ const featuredProjects = [
     url: "https://github.com/dwaxgio/ai-development-fundamentals"
   },
   {
-    name: "claude-fundamentals-hooks",
-    track: "Tooling",
-    year: "2025",
+    name: "javascript_babylonjs",
+    track: "Game / 3D",
+    year: "2021",
     description:
-      "TypeScript-based repository exploring hook-oriented tooling patterns for AI development environments.",
-    tags: ["TypeScript", "Hooks", "Automation"],
-    url: "https://github.com/dwaxgio/claude-fundamentals-hooks"
+      "Babylon.js repository focused on 3D scene work and browser-based graphics related to game development.",
+    tags: ["Babylon.js", "JavaScript", "3D"],
+    url: "https://github.com/dwaxgio/javascript_babylonjs"
   }
 ];
 
